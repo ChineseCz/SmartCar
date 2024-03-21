@@ -6,7 +6,7 @@
 - [背景](##背景)
 - [安装](##安装)
 - [使用说明](##使用说明)
-- [相关链接](##示例)
+- [成果](##成果)
 
 ## 背景
 项目起源于2021年智能车竞赛AI电磁组，基本要求：在未知闭环赛道上，使用AI模型预测未来路径，控制小车完成一圈循迹。
@@ -34,6 +34,6 @@
   |- Libraries                     项目依赖配置、开源库
 ```
 
-## 相关链接
-
+## 成果
+决赛视频：https://pan.baidu.com/s/1Wz1RHJ1EdDB6PMipCoNdog?fid=923275425989633
 技术报告：https://uestc.feishu.cn/file/KzZ1bh5rpotIBoxjDWncxUY5nac?from=from_copylink
