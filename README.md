@@ -35,6 +35,6 @@
 ```
 
 ## 成果
-决赛视频：https://pan.baidu.com/s/1Wz1RHJ1EdDB6PMipCoNdog?fid=923275425989633
+决赛视频：https://pan.baidu.com/s/1K7YETY95D7Atu9Mz_Q9bMw?pwd=b8b6 提取码: b8b6 复制这段内容后打开百度网盘手机App，操作更方便哦
 
 技术报告：https://uestc.feishu.cn/file/KzZ1bh5rpotIBoxjDWncxUY5nac?from=from_copylink
